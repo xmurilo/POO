@@ -1,5 +1,5 @@
 import { Character } from "./Character";
-import { Weapon } from "./arma";
+import { Weapon } from "./Weapon";
 
 const weapon: Weapon = new Weapon();
 
