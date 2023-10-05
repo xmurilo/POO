@@ -1,4 +1,4 @@
-import { Weapon } from "./arma";
+import { Weapon } from "./Weapon";
 
 export class Character {
   name: string = "";
